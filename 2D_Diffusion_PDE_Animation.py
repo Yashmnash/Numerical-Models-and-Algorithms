@@ -1,6 +1,7 @@
 # Two dimenstional simulation of the diffusion equation
 # Assuming a 'box' with four walls of equal temperature
 # By Yash Desai
+# Animation: https://www.youtube.com/watch?v=3FfiIwahWYs
 import numpy as np
 from math import pi,sin
 from mpl_toolkits.mplot3d import Axes3D

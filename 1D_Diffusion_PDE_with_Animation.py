@@ -1,6 +1,7 @@
 # One dimensional simulation of the diffusion equation
 # Assuming a fully insulated rod, with ends at constant temp.
 # By Yash Desai
+# Animation: https://www.youtube.com/watch?v=FXmnV4O6Gjc&feature=youtu.be
 import numpy as np
 import matplotlib.pyplot as plt
 

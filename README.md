@@ -1,2 +1,2 @@
-# Numerical-Methods-and-Simulations
-Implementation of numerical methods and simulations
+# Numerical-Models-and-Algorithms
+Implementation of numerical models and algorithms
